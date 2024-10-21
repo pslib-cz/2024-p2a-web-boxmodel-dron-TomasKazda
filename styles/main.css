@@ -46,7 +46,7 @@
    .page__header {
         background-image: url(../images/header-2560w.webp);
         background-size: cover;
-        background-position: bottom left;
+        background-position: top left;
         padding: calc(.75em + 4vw);
         padding-top: 1em;
    }
